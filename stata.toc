@@ -1,0 +1,9 @@
+d forked from https://github.com/cacoleman16/did_imputation
+d https://github.com/cacoleman16/did_imputation
+
+d 'did_imputation': compare different estimators 
+
+p event_plot
+
+p did_imputation
+
